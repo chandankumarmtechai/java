@@ -1,0 +1,54 @@
+What is default constructor?
+Can a class be static ?
+Can main method be private ?
+Can be create object of abstract class?
+Can be create object of interface?
+Can we have try block without any catch block?
+Can we have static method in interface?
+Can we have static method in abstract class?
+
+
+What is covariant?
+Difference between method overloading and method overriding.
+Difference between static block and initializer block.
+
+
+Difference between List and Set.
+Difference between HashMap and Hashtable.
+How to iterate HashMap/Hashtable?
+Difference between List and Set.
+Difference between List and Vector.
+Difference between Comparable and Comparator.
+What is concurrent HashMap?
+
+Difference among final, finally and finalize. 
+Difference between checked and unchecked exception.
+Difference between static and dynamic polymorphism.
+Difference between String and StringBuffer.
+Difference between StringBuffer and StringBuilder.
+Difference between throw and throws.
+
+Explain working of immutablity.
+Explain working of string constant pool.
+Explain working of garbage collector.
+Explain memory model of java program.
+
+What is Runnable?
+How to create thread in java?
+Difference between sleep and wait.
+Explain wait and notify.
+What is benefit of creating thread by implementing Runnable interface?
+Difference between process and thread.
+Can be start a thread twice?
+What is thread pool ? What are benefits of it?
+What if we call run method of thread instead of start method ?
+
+What is serialization?
+
+Java8 new features.
+Default method in interface.
+Static method in interface.
+JODA Date Time API
+Lambada Expression
+Functional interface
+Stream API

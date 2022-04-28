@@ -1,0 +1,39 @@
+spring introduction
+
+terminology
+
+dependency, dependency injection, bean, bean factory, bean scope, bean lifetime, ioc, ioc container, application context
+
+tight coupling vs loose coupling
+dynamic wiring @primary
+
+@annotations
+@element, @autowired, @primary, @qualifier
+
+CDI @ annotations
+@named, @injects
+
+multiple candidates for dependency
+@primary, @qualifier
+
+types of bean
+singleton, prototype, request, session
+difference between spring singleton and GOF singleton
+
+component scan
+
+complex scope
+
+setter injection vs constructor injection
+
+@Component annoations
+
+@value reading external properties file
+
+java context vs xml context
+
+spring modules
+
+spring projects
+
+
